@@ -1,9 +1,9 @@
-#Webpack + ReactJS boilerplate
+# Webpack + ReactJS boilerplate
 
-##Modules:
+## Modules:
 * babel-loader
 * css-loader
 
-##Webpack packages:
+## Webpack packages:
 * cli
 * dev-server
